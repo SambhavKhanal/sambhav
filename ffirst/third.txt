@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+
+<body>
+    Hello world.
+
+
+    <script>
+
+
+    </script>
+</body>
+</html>
